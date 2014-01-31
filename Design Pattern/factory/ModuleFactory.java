@@ -1,8 +1,6 @@
 //$Id$
 package com.tts.dp.factory;
 
-import javax.xml.crypto.dsig.keyinfo.RetrievalMethod;
-
 public class ModuleFactory {
 
 	public Module getModule(String n){
