@@ -1,0 +1,10 @@
+D:\UsingC\Project\GWZohoCRM\GWZohoCRM\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\UsingC\Project\GWZohoCRM\GWZohoCRM\obj\x86\Debug\GWZohoCRM.SignIn.resources
+D:\UsingC\Project\GWZohoCRM\GWZohoCRM\obj\x86\Debug\GWZohoCRM.Properties.Resources.resources
+D:\UsingC\Project\GWZohoCRM\GWZohoCRM\obj\x86\Debug\GWZohoCRM.Resource.Resource.resources
+D:\UsingC\Project\GWZohoCRM\GWZohoCRM\obj\x86\Debug\ResGen.read.1.tlog
+D:\UsingC\Project\GWZohoCRM\GWZohoCRM\obj\x86\Debug\ResGen.write.1.tlog
+D:\UsingC\Project\GWZohoCRM\GWZohoCRM\bin\Debug\GWZohoCRM.exe
+D:\UsingC\Project\GWZohoCRM\GWZohoCRM\bin\Debug\GWZohoCRM.pdb
+D:\UsingC\Project\GWZohoCRM\GWZohoCRM\obj\x86\Debug\GWZohoCRM.exe
+D:\UsingC\Project\GWZohoCRM\GWZohoCRM\obj\x86\Debug\GWZohoCRM.pdb
